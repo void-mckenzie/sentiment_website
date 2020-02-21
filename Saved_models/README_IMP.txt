@@ -1,0 +1,1 @@
+Go to "https://drive.google.com/file/d/19-eKk1I4LbeSxW9noylYuGr-CYo3AKv8/view?usp=sharing" to download the pretrained weights for the sentiment analysis model and place it in this  folder.

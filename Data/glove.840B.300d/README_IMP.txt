@@ -1,0 +1,1 @@
+Extract the glove embedding model downloaded from "https://nlp.stanford.edu/projects/glove/" and save it here.
