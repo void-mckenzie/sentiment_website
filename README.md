@@ -1,6 +1,6 @@
 # Sentiment Analysis of Movie Reviews
 
-For this project 50,000 IMDB Reviews were used to build a RNN-LSTM model for analysis the sentiment of movie reviews.
+For this project 25,000 IMDB Reviews were used to build a RNN-LSTM model for analysis the sentiment of movie reviews.
 
 The README_IMP files in the folders provide the links required for downloading the IMDB dataset and the GLoVE embedding.
 
