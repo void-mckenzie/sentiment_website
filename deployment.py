@@ -55,7 +55,7 @@ def process():
 <center><form action="http://localhost:5000/process" method="POST">
 <div class="form-group">
     <label for="rev">Enter your reviews here:</label>
-    <textarea class="form-control" rows="5" id="rev" name="sent" style="width: 900px; resize:both;overflow:auto"></textarea>
+    <textarea class="form-control" rows="5" id="rev" name="sent" style="width: 900px; resize:both;overflow:auto">"""+text+"""</textarea>
     
   </div>
 <input type="submit" class="btn btn-primary"></button>
