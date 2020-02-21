@@ -10,4 +10,4 @@ The Preprocessing_Training code performs the various preprocessings (parsing thr
 
 The deployment code is to be run on the flask server. It loads the trained model and serves it. After the server has been started, the "home_page.html" file can be used to access the website, where you can type in a review and get the appropriate prediction.
 
-The model has an accuracy of 92.5%.
+The model has an accuracy of 92.5%. We are working on using the TF2.0 serving API to serve the model directly as an API.
